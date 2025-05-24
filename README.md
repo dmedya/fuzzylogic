@@ -3,9 +3,9 @@
 ## Kurulum ve Çalıştırma
 
 ### Gereksinimler
-Projeyi çalıştırmak için aşağıdaki Python kütüphanelerinin yüklü olması gerekmektedir:
+Projeyi çalıştırmak için gerekli tüm Python kütüphanelerini tek komutla kurabilirsiniz:
 ```bash
-pip install numpy scikit-fuzzy matplotlib openai
+pip install -r requirements.txt
 ```
 
 ### OpenAI API Anahtarı Ayarları
