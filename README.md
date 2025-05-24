@@ -87,7 +87,7 @@ Burada μ(y)\mu(y)μ(y), birleşik çıktı üyelik fonksiyonudur. `skfuzzy`'nin
     - Grafikler interaktif olup, pencere boyutu değiştirilebilir ve istenildiğinde kapatılabilir.
     - Her yeni hesaplama için yeni bir grafik penceresi açılır.
 
-<img src="grafikcpng">
+<img src="grafik.png">
 
 - **Sonuç Gösterimi:**
     - Hesaplama sonuçları hem popup mesaj kutusunda hem de grafik penceresinde gösterilir.
