@@ -1,5 +1,33 @@
 # Akilli Sulama Sistemi
 
+## Kurulum ve Çalıştırma
+
+### Gereksinimler
+Projeyi çalıştırmak için aşağıdaki Python kütüphanelerinin yüklü olması gerekmektedir:
+```bash
+pip install numpy scikit-fuzzy matplotlib openai
+```
+
+### OpenAI API Anahtarı Ayarları
+1. OpenAI API anahtarınızı çevre değişkeni olarak ayarlayın:
+```bash
+export OPENAI_API_KEY="your_api_key_here"
+```
+
+### Projeyi Çalıştırma
+1. Projeyi GitHub'dan klonlayın:
+```bash
+git clone https://github.com/dmedya/fuzzylogic.git
+cd fuzzylogic
+```
+
+2. Python ile çalıştırın:
+```bash
+python fuzzy.py
+```
+
+## Proje Detayları
+
 ### Girdi ve Çıktı Değişkenlerinin Tanımı
 
 1. **Toprak Nemi (%):**
